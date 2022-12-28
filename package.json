@@ -1,0 +1,24 @@
+{
+    "name": "ecommerce-backend",
+    "version": "1.0.0",
+    "description": "",
+    "type": "module",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2",
+        "firebase-admin": "^11.4.1",
+        "knex": "^2.3.0",
+        "mongoose": "^6.8.1",
+        "mysql": "^2.18.1",
+        "socket.io": "^4.5.4",
+        "sqlite3": "^5.1.4",
+        "uuid": "^9.0.0"
+    }
+}

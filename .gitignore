@@ -1,0 +1,6 @@
+/node_modules
+/db/options
+/db/ecommerce.sqlite
+/daos/products/ProductsDaoSQL.js
+/daos/carts/CartsDaoSQL.js
+/containers/ContainerSQL.js
