@@ -1,5 +1,5 @@
 /node_modules
-/db/options
+/db/options/sqliteconn.js
 /db/ecommerce.sqlite
 /daos/products/ProductsDaoSQL.js
 /daos/carts/CartsDaoSQL.js

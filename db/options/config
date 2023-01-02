@@ -1,0 +1,14 @@
+const mongoUrl = "mongodb+srv://nicobolcatto:x3Q76fnRi0Ahqyoq@cluster0.lm6pupb.mongodb.net/ecommerce?retryWrites=true&w=majority"
+
+const firebase = {
+    "type": "service_account",
+    "project_id": "ecommerce-backend-d30a3",
+    "private_key_id": "71deb8c3324c906390f918434dab3c6d7ea64ae5",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC81U3lY91+Gr8C\n+U1RQ6p0jFqT+4UmFlbA8L7hLDLDjsoDzU+aGSCY9H54WYllo7O6SCZrwkjEzmRx\n3cpY0lm/GpybjQPrTtpEcxgRbhph/pqZCLCOetPb7GrrzYCD6H8vSN1S2GlUPMwJ\nifRvRfAL+MQr8Nczxr3lBjMTOKtGtayKpsELLbn+QG8aQ+AAi2JxSjr3iTj0eUJ0\nIs4bkVwiGZMklWEnERMGJdEN7mc7Kv9rU9rl3hPLU9Oi+ZZ8ehrLB1SVLAoWQC+j\njQP9snlflwZZhiHKclwAB9p3NGr/j1cey8SoftB1/w7y2X8co9yCWZnuPOHTb+Dw\nJ+2bL4knAgMBAAECggEAWS8jDaKXYy4tpbFp92YOdOIvC3JA5gap7ZEmjcGqrhrb\nxWTr4htY/nSG4L9k+YiR43qdDsrhRHY4EWFPZpjegzgF3B+DSNjilG6JYP4P3tV5\nXaqxfHF9awKjUwApYONnYkU3JqAISx01vpGVzRIKeBUDTb9/XDhSyn6dk8fxeMCX\nxuvlCKX/pMdjRBLy13UH/u2j2pdy5R0yqwHHQhy8GLkVYp4vvJ8mI9b2450R/8jq\nvYsfwcAVatgnVQG8TpmNfvNE+k8JiXMw+0za3NhPfn/jQzYYHncQZs5DPdcXNLDl\nTtbAlaqE9K7Go3WhoM1gXTplWjoeZqh9EhrF3RzyhQKBgQDuIQOLIejXKqqUvOh6\np7u0yawYc3Y+ovTvxHaPzzlcXeyydGqbKUR6A39BlnVL20yGsK0rrYfMP3IoUXFG\nk2b2Q9M7usYkmIRxJrlsW+ZglQUNNbIYrpTi3TfYVEL1Fj3d18GNTlrU8Vd90n3+\n0gI2YXuHHuSKeQ/Hu0EhzrhI6wKBgQDLATW01nT/puCsgPX0u7wE6U+he3MK42l0\nAu9N71j+dbrhl5X62vwHON9qa+HI2ro2ZNwgojMcZPmyyR9lLyQ4kW+0cymd0BqY\n/PdnO/ESj5SEt1JOa9iFJnqv4QfsbLK1a5zT/Pc4Yo+HjAPwKG6RRukkqDy1Jz8h\nIRYOKw0xtQKBgFNpJQCbRB/6Rf4LnbM5Bbrx2WJHL2gJVJqXyp/dCk6cZ8iqlpz6\n+41xpCWpOjTz//497KqcAjE9GBOfU3pRL4ObhmYpqjYvZlTsJ48ZMb0q9bYG1Pdo\nT6aXrnQML9gBjnIinR2OEKr+TpM4JAIaNcQuqUJPQ+ZtOWXQ5aOd8Vc5AoGBAIhl\n3bINzjrf42HEnH29jg02vhxgF+Ie/oHGXwfcY81FSTW+ZjVQ4bnwipy0s9YCsM9P\nYWBD21eeuO9Zl1CjJhEkFwwFvNaeNuDIR2sDqWyxMDcj/ZdXevmr6w81gd9nAYRI\nM+1zsKAgCRQoDZVVdUUDgi7xIykMn6wg0PLgFlNpAoGAFQNEcylYSklsC9jq5of5\nZomlUnehuO3fh/dZgUgjiL0Q+sq4pQEoCP7WY41JYZEMo7nYygURNM2ZXh6Tc6FY\nzvost2y43WbXoSKpGR9wipM3g7DhjBL3AJkGLQmFfZCKqemYgnvorcJfWAZJ6Ose\nlz3KBK0EZBDusUaq67/PGbU=\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-rh2nv@ecommerce-backend-d30a3.iam.gserviceaccount.com",
+    "client_id": "105300216173910538545",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rh2nv%40ecommerce-backend-d30a3.iam.gserviceaccount.com"
+}
